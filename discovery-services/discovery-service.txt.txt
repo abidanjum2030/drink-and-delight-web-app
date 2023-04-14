@@ -3,3 +3,5 @@ changes in disvoery
 second changes in discoverys
 
 create branch from remote 
+
+create local branch and push to remote
